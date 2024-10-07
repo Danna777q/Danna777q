@@ -3,7 +3,7 @@ hola me llamo Danna
 -🏫actualmente estoy estudiando,
 -🎮me gusta jugar videojuegos,
 -📱localizame por instagram,
--✏️estoy aprendiendoadibujar
+-✏️estoy dibujando
 ![image](https://github.com/user-attachments/assets/9f98dada-83b5-4c23-95e3-cdf6e171e2c1)
 
 
